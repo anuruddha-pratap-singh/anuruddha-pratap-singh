@@ -30,7 +30,7 @@
 
 ---
 
-### `// TECHNICAL STACK & TOOLING`
+### `TECHNICAL STACK & TOOLING`
 
 #### ▫ Languages
 <p align="left">
@@ -82,7 +82,7 @@
 
 ---
 
-### `// LEETCODE & PROBLEM SOLVING`
+### `LEETCODE & PROBLEM SOLVING`
 
 <div align="center">
   <a href="https://leetcode.com/u/anuruddha-pratap/">
@@ -97,7 +97,7 @@
 
 ---
 
-### `// ACTIVITY & METRICS`
+### `ACTIVITY & METRICS`
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anuruddha-pratap-singh&theme=dark&background=000000&border=30363D&stroke=8B949E&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border_radius=8" height="150" alt="Streak Stats" />
@@ -109,7 +109,7 @@
 
 ---
 
-### `// TRANSMISSION & NETWORK`
+### `TRANSMISSION & NETWORK`
 
 Feel free to connect for open-source collaboration, backend architecture discussions, or system design inquiries:
 
