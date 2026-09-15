@@ -109,19 +109,6 @@
 
 ---
 
-### `TRANSMISSION & NETWORK`
-
-Feel free to connect for open-source collaboration, backend architecture discussions, or system design inquiries:
-
-```
-LINKEDIN : https://www.linkedin.com/in/anuruddha-pratap/
-X        : https://x.com/Anuruddha_PS
-LEETCODE : https://leetcode.com/u/anuruddha-pratap/
-GITHUB   : https://github.com/anuruddha-pratap-singh
-```
-
-<br />
-
 <p align="center">
   <sub>Constructed with precision. No fluff, pure engineering.</sub>
 </p>
