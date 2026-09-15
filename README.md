@@ -24,9 +24,9 @@
 
 ---
 
-<p align="center">
-  <b>Learn Tech By Building It</b>
-</p>
+<h3 align="center">
+  <code>❯ Learn Tech By Building It</code>
+</h3>
 
 ---
 
@@ -94,15 +94,6 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile_&_Solutions-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a>
 </div>
-
----
-
-### `// DESIGN PRINCIPLES & ENGINEERING STANDARDS`
-
-* **Loose Coupling & Single Responsibility**: Every module owns a single business capability. Classes and interfaces are engineered around clear behavioral contracts rather than concrete implementations.
-* **Defensive Programming & Strict Validation**: Fail fast at boundary layers. Every critical system component is guarded with input sanitization, deterministic error modeling, and predictable exception hierarchies.
-* **Test Automation**: Production logic is treated as incomplete without corresponding unit and integration test assertions using JUnit 5 and mocking frameworks.
-* **Performance Consciousness**: Asymptotic efficiency is designed upfront. Profiling algorithmic execution to prevent memory leaks, reduce garbage collection overhead, and maintain minimal cache misses.
 
 ---
 
