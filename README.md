@@ -24,13 +24,9 @@
 
 ---
 
-### `// PROFILE & ENGINEERING PHILOSOPHY`
-
-I am a **Software Engineer** focused on designing reliable, maintainable backend systems and low-level object-oriented architectures. My engineering approach is grounded in deterministic execution, strict interface boundaries, and continuous craftsmanship.
-
-* **Architecture First**: Systems must be modular, decoupled, and intuitive before they are fast. I prioritize SOLID principles, design patterns, and clean domain boundaries.
-* **Engineering Over Hype**: Strong preference for foundational computer science—memory models, concurrency primitives, data structures, and predictable asymptotic behavior—over transient abstractions.
-* **Open Source Stewardship**: Actively reading, profiling, and contributing to production codebases, upholding rigorous test coverage and review standards.
+<p align="center">
+  <b>Learn Tech By Building It</b>
+</p>
 
 ---
 
