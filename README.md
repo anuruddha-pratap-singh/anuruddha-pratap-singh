@@ -24,9 +24,9 @@
 
 ---
 
-<h3 align="center">
-  <code>❯ Learn Tech By Building It</code>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F0F6FC&center=true&vCenter=true&width=450&lines=%E2%9D%AF+Learn+Tech+By+Building+It" alt="Learn Tech By Building It" />
+</p>
 
 ---
 
