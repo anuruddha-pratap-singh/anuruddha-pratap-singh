@@ -27,21 +27,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F0F6FC&center=true&vCenter=true&width=450&lines=%E2%9D%AF+Learn+Tech+By+Building+It" alt="Learn Tech By Building It" />
 </p>
-
----
-
-### `ACTIVITY & METRICS`
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anuruddha-pratap-singh&theme=dark&background=000000&border=30363D&stroke=8B949E&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border_radius=8" height="150" alt="Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-activity-graph-bay.vercel.app/graph?username=anuruddha-pratap-singh&bg_color=000000&color=FFFFFF&line=E6EDF3&point=FFFFFF&area=true&area_color=161B22&hide_border=false&border_color=30363D" height="300" alt="Activity Graph" />
-</div>
-
-<br>
-
----
-
-<p align="center">
-  <sub>Constructed with precision. No fluff, pure engineering.</sub>
-</p>
